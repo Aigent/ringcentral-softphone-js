@@ -1,5 +1,5 @@
 {
-  "name": "ringcentral-softphone",
+  "name": "@aigent/ringcentral-softphone",
   "version": "0.5.1",
   "license": "MIT",
   "main": "dist/index.js",
